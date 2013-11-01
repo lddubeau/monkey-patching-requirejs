@@ -1,5 +1,5 @@
-You need amd-loader installed:
+Install:
 
-npm install amd-loader
-
-and jasmine, obviously.
+    npm install amd-loader
+    npm install requirejs
+    npm install jasmine
